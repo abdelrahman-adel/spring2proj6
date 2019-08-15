@@ -7,10 +7,10 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
-import com.master.spring.spring2proj5.properties.SomeExternalService;
+import com.master.spring.spring2proj6.properties.SomeExternalService;
 
 @Configuration
-@ComponentScan(basePackages = { "com.master.spring.spring2proj5" })
+@ComponentScan(basePackages = { "com.master.spring.spring2proj6" })
 @PropertySource("classpath:app.properties")
 public class Spring2proj6Application {
 

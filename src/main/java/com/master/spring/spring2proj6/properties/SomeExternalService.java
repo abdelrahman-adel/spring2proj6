@@ -1,4 +1,4 @@
-package com.master.spring.spring2proj5.properties;
+package com.master.spring.spring2proj6.properties;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Repository;

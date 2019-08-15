@@ -1,4 +1,4 @@
-package com.master.spring.spring2proj5.blc;
+package com.master.spring.spring2proj6.blc;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
@@ -21,7 +21,7 @@ public class BinarySearchImpl {
 		System.out.println(sortAlgorithm);
 
 		// search logic
-		return 2;
+		return 3;
 	}
 
 	@PostConstruct

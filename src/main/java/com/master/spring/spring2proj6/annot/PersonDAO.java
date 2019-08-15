@@ -1,4 +1,4 @@
-package com.master.spring.spring2proj5.annot;
+package com.master.spring.spring2proj6.annot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
