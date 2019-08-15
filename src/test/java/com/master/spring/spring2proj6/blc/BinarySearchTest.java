@@ -1,4 +1,4 @@
-package com.master.spring.spring2proj5.blc;
+package com.master.spring.spring2proj6.blc;
 
 import static org.junit.Assert.assertEquals;
 
